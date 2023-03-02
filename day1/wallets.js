@@ -1,6 +1,5 @@
 import "dotenv/config";
 import { BigNumber, ethers } from "ethers";
-// @ts-nocheck
 
 // const wallet = ethers.Wallet.createRandom();
 // console.log("address:", wallet.address)
